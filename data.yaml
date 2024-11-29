@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 20
+names: ['100km', '10km', '110km', '20km', '30km', '40km', '50km', '60km', '70km', '80km', '90km', 'keep_right_of_mediam', 'no_left_turn', 'no_right_turn', 'no_u_turn', 'one_way_left', 'one_way_right', 'school_zone', 'stop', 'yield']
+
+roboflow:
+  workspace: cps843-o3qp2
+  project: road-sign-recognition-g1lfe
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cps843-o3qp2/road-sign-recognition-g1lfe/dataset/1
