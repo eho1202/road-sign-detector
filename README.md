@@ -1,6 +1,8 @@
 # Road Sign Recognition
 The project involves creating an application that uses a mobile phone camera or any other camera to recognize road signs in Ontario. The purpose of traffic sign recognition is to allow autonomous vehicles to recognize and respond accordingly to road signs. This helps improve road safety, compliance with traffic laws and driving comfort.  
 
+This repository contains the trained model optimized for recognizing road signs in Ontario, as well as an installation guide detailing the steps we followed to train the model. 
+
 ## Installation Guide
 1. If you have a [compatible Nvidia graphics card](https://developer.nvidia.com/cuda-gpus), download [CUDA Toolkit 12.4](https://developer.nvidia.com/cuda-12-4-0-download-archive). If you do not have an Nvidia graphics card, ignore this step.
 2. Ensure Python is installed and the version is between ```3.8``` and ```3.12```.
