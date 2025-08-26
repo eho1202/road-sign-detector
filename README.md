@@ -39,3 +39,10 @@ The dataset includes 20 classes, they are:
 - yield
 
 The roboflow dataset can be found [here](https://universe.roboflow.com/cps843-o3qp2/road-sign-recognition-g1lfe/dataset/1).
+
+## Collaboration
+This assignment was completed in collaboration with:  
+[Anthony Thanpoovong](https://github.com/anthonythanpoovong)
+[Caleb Lam](https://github.com/ClamEater14)
+[Jerome Magpantay](https://github.com/JeromeMagpantay)
+[Ryan Le](https://github.com/ryan1le)
