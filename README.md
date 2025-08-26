@@ -42,7 +42,7 @@ The roboflow dataset can be found [here](https://universe.roboflow.com/cps843-o3
 
 ## Collaboration
 This assignment was completed in collaboration with:  
-[Anthony Thanpoovong](https://github.com/anthonythanpoovong)
-[Caleb Lam](https://github.com/ClamEater14)
-[Jerome Magpantay](https://github.com/JeromeMagpantay)
+[Anthony Thanpoovong](https://github.com/anthonythanpoovong)  
+[Caleb Lam](https://github.com/ClamEater14)  
+[Jerome Magpantay](https://github.com/JeromeMagpantay)  
 [Ryan Le](https://github.com/ryan1le)
